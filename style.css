@@ -1,0 +1,7 @@
+p{
+  visibility: hidden;
+}
+.container img:hover #des{
+  visibility: visible;
+  z-index: 99;
+}
